@@ -4,6 +4,9 @@ class GrandFather{
      echo __CLASS__.PHP_EOL;
     }
 }
+/*
+*   这是今天的工作......
+*/
 class Father extends GrandFather{
     static protected $son='121';
     public $daughter = '女儿';
