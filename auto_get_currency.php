@@ -17,7 +17,7 @@ class Daemon_Get_Currency_Auto extends Daemon_Base
 
     private function start(){
         $i = 1;
-        $j = 1;
+        $j = 1111111111111111111111111111111111111;
         $limit = 100;
         while($i <= $j) {
             //抓取数据
